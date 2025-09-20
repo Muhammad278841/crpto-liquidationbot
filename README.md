@@ -1,6 +1,5 @@
 # crpto-liquidationbot
 telegram bot for crypto liquidations alerts
-👑, [21.09.2025 2:34]
 import json
 import threading
 import time
